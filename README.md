@@ -3,15 +3,13 @@
 1. Tener codex instalado en el sistema y una cuenta de ChatGPT de 20$ o + con acceso a Codex ya iniciada.
 2. Ir a ChatGPT **Deep Research** y decirle tus inquietudes del libro (complejidades que el libro pueda tener... por ejemplo, el libro de Pedro Páramo es muy complejo de leer por cambios temporales, etc). Decirle también a Chat que **NO QUIERES PERDER TIEMPO** y necesitas una "guía de lectura eficiente para entender fácilmente las dificultades; anticiparte y superarlas".
 
-EJEMPLO DE PROMPT: 
-
+[EJEMPLO DE PROMPT](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/prompt-deep-research)
 
 3. Esperar a que ChatGPT haga el informe del Deep Research. Cuando tengamos el informe de DEEP RESEARCH. Tenemos que descargar este informe como "MARKDOWN". La app de chatgpt nos debiese dejar descargarlo como Markdown... en el caso que **no sea posible** descargarlo como markdown, entonces **NO** vamos a descargarlo como .PDF ni tampoco como "Word / docx / doc". En cambio, vamos a copiar TODO EL CONTENIDO del informe poco a poco en un documento "**.txt**". Esto lo podemos hacer con el programa "Bloc de notas" en Windows.
 
 Obviamente, vamos a preocuparnos de que todo vaya quedando copiado y pegado de forma correcta, sin errores en el formato (lo vamos corrijiendo si hace falta).
 
-EJEMPLO DE INFORME:
-
+[EJEMPLO DE INFORME](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/InformeDeepResearch.txt)
 
 4. Ahora, ya con el informe (que habla sobre dificultades del libro y spoilea cosas) tenemos que hacer el resumen del libro. Para esto, es necesario descargar un resumen que ya exista de otro libro + el otro libro, a modo de EJEMPLO para Codex.
 
@@ -27,11 +25,17 @@ https://www.gradesaver.com/cien-a%C3%B1os-de-soledad/guia-de-estudio/summary-cap
 
 ¿Qué programa para convertir?: https://calibre-ebook.com/es/download ; por cierto, quizás también sirva un conversor "online"... no lo sé.
 
-¿Donde lo descargo como ".epub"? --> 1 -> En google buscas "(nombre del libro) .epub" y lo descargas desde google, o usas una pagina diferente para descargarlo. O buscas en google "Telegram, biblioteca secreta", y aprendes a usar la biblioteca secreta de Telegram.
+¿Donde lo descargo como ".epub"?: En google buscas "(nombre del libro) .epub" y lo descargas desde google... o usas una pagina diferente para descargarlo... O buscas en google "Telegram, biblioteca secreta", y aprendes a usar la biblioteca secreta de Telegram.
 
-6. Ahora, descargamos el libro del cuál necesitamos generar un resumen, también en .txt. Esto lo hacemos igual que como lo hicimos anteriormente en el paso "5."
+6. Ahora, descargamos el libro del cuál necesitamos generar un resumen, también en .txt. Esto lo hacemos igual que como lo hicimos anteriormente en el paso "5"
 
-7. Ahora, tenemos lo siguiente:
+¿Qué pasa si el libro que nosotros tenemos está únicamente dispoible en .docx, o únicamente disponible en .PDF y NO está en .epub?: En ese caso, tenemos que convertirlo a .txt. Lo que yo recomiendo al 100%, es usar **MISTRAL OCR**.
+
+Mistral OCR lo podemos usar a través de, [una página web](santiagollll.github.io) o a través de una [extensión de Chrome](https://github.com/santiagollll/Chrome-Mistral-OCR).
+
+
+
+8. Ahora, tenemos lo siguiente:
 -Codex configurado (cuenta $20 o +)
 -Informe de Deep Research en .txt o .md (markdown)
 -Libro de ejemplo en .txt
@@ -85,12 +89,12 @@ Esto, con el objetivo de que la "couta" de Codex se gaste mas lentamente, y no t
 
 16. Adjunto, todos los archivos que usé yo, por si quieres usar los mismos archivos de ejemplo míos (para evitar tener que descargar el resumen desde cero en gradesaver.com) y así ahorrar tiempo. Y también para mostrar el resultado final.
 
-Cien años de soledad (LIBRO): 
+[Cien años de soledad (LIBRO)](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/Cien%20anos%20de%20soledad%20-%20Gabriel%20Garcia%20Marquez.txt)
 
-Resumen cien años de soledad: 
+[Resumen cien años de soledad](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/Resumen%20100%20an%CC%83os%20de%20soledad.md)
 
-Informe Deep research hijo de ladrón: 
+[Informe Deep research hijo de ladrón](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/InformeDeepResearch.txt)
 
-Libro hijo de ladrón:
+[Libro hijo de ladrón](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/Hijo%20de%20ladron%20-%20Manuel%20Rojas.txt)
 
-Ejemplo del resumen que me hizo codex de hijo de ladrón: 
+[Ejemplo del resumen que me hizo codex de hijo de ladrón](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/ResumenCodexFinal.txt)
