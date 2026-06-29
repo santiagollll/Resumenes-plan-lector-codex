@@ -1,0 +1,35 @@
+Necesito leer un libro pero mañana tengo la prueba. Lamentablemente por motivos de salud no he tenido tiempo para leer y no he podido hacer cambios en la rendición de la prueba... en fin.
+
+Necesito leer un resumen del libro **pero** no cualquier resumen.
+
+Necesito leer un resumen el cuál me permita sacarme un 10/10 en la evaluación. Esto significa que el resumen, mas que un "resumen", debe ser una re-escritura del libro de forma que "comprima" todo el contenido del libro y la historia de la forma "más eficiente posible".
+
+La idea es tener un texto final más corto que el texto original, el cuál incluya TODO EL CONTENIDO del libro de forma comprimida, con un ANÁLISIS de los capítulos donde se explique explícitamente lo acontecido en cada uno de los capítulos y de cara al usuario final le haga muy fácil la **Comprensión** del libro original (básicamente le ahorre al usuario tener que entender qué esta ocurriendo con los personajes; qué ocurre con el narrador; si existen o no saltos temporales o de espacios; etc; etc. Que el usuario no tenga que PENSAR. Si no, que el resumen ya incorpore un análisis de cada cosa.
+
+Los resumenes normales, por lo general son "super cortos". Yo, en cambio, quiero resumenes POR CAPÍTULOS y obviamente quiero que sean más cortos que los capítulos originales (si no, no serían "resumenes") sin embargo quiero priorizar el contenido.
+
+--
+
+¿Cómo pienso solucionar el problema?.
+
+A modo de ejemplo, te adjunté el LIBRO ORIGINAL de "Cien años de soledad" en formato .txt para que puedas ver un libro "raw". Y añadí un resumen a modo de ejemplo de este mismo libro "Resumen 100 años de soledad.md". Este resumen es un resumen EJEMPLAR de lo que necesito. Puedes irlo comparando con el texto original (quizás puedes comparar algunos capítulos en específico y No necesariamente todo el resumen).
+
+Necesito que comprendas el ejemplo de Cien años de Soledad; que comprendas mi necesidad y me ayudes a pensar el "cómo" poder generar un resumen IGUAL DE BUENO para el libro "Hijo de Ladrón".
+
+--
+
+Mi idea:
+
+Hasta ahora tengo la idea de que sea un Agente basado en un modelo largo de lenguaje que se encargue de ir "capítulo a capítulo" haciendo un resumen + análisis correspondiente poco a poco...
+
+Hay que considerar que el libro de hijo de Ladrón son 150k tokenss.
+
+Además. El agente debiera contar con algun tipo de sistema de "memoria" (o dejarlo en contexto... la verdad no soy muy técnico yo y no se cual sea la mejor manera).
+
+Por último. El agente podría contar con un "Resumen General" de la obra que siempre lo tenga cargado en contexto para tener una idea mas "macro" de lo que está haciendo. Este resumen general de la obra yo ya lo creé y se encuentra en /hijo-de-ladron/ResumenGeneral.txt. Este resumen explica algunos saltos temporales; cambios de narrador y problemas que el usuario se puede encontrar en ciertas partes del libro mientras lee que le dificultarán la lectura. El "resumen general" explica claramente cuales son estas partes para mejorar la comprensión del usuario (por lo que es información útil a considerar en la generación del análisis de los capítulos).
+
+--
+
+Necesito tu ayuda. Puedes ser tú ese Agente?
+
+---
