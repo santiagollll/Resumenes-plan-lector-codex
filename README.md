@@ -35,7 +35,7 @@ Mistral OCR lo podemos usar a través de, [una página web](https://santiagollll
 
 
 
-8. Ahora, tenemos lo siguiente:
+7. Ahora, tenemos lo siguiente:
 -Codex configurado (cuenta $20 o +)
 -Informe de Deep Research en .txt o .md (markdown)
 -Libro de ejemplo en .txt
@@ -44,7 +44,7 @@ Mistral OCR lo podemos usar a través de, [una página web](https://santiagollll
 
 Con esto, tenemos que organizar un "espacio de trabajo" para luego producir el resumen. ENTONCES!. Vamos a crear una carpeta nueva en nuestro computador. Esa carpeta le vamos a poner el nombre de "resumen-plan-lector".
 
-8. Ok. Ya cuando tengamos la carpeta y estemos dentro de esa carpeta vacía, vamos a crear más carpetas DENTRO DE ESTA. (ósea, estamos dentro de "resumen-plan-lector", y ahora vamos a crear MÁS CARPETAS dentro de "resumen-plan-lector".
+8. Ok. Ya cuando tengamos la carpeta y estemos dentro de esa carpeta vacía, vamos a crear más carpetas DENTRO DE ESTA. (ósea, estamos dentro de "resumen-plan-lector", y ahora vamos a crear MÁS CARPETAS dentro de "resumen-plan-lector".)
 
 La primera carpeta, tiene que tener el nombre del libro que vamos a usar a modo de EJEMPLO para darle ese resumen a modo de ejemplo. En mi caso, "cien-años-de-soledad". (es preferible, remplazar la "ñ" por una "n", por si acaso).
 
