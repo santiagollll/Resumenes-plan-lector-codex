@@ -31,7 +31,7 @@ https://www.gradesaver.com/cien-a%C3%B1os-de-soledad/guia-de-estudio/summary-cap
 
 ¿Qué pasa si el libro que nosotros tenemos está únicamente dispoible en .docx, o únicamente disponible en .PDF y NO está en .epub?: En ese caso, tenemos que convertirlo a .txt. Lo que yo recomiendo al 100%, es usar **MISTRAL OCR**.
 
-Mistral OCR lo podemos usar a través de, [una página web](santiagollll.github.io) o a través de una [extensión de Chrome](https://github.com/santiagollll/Chrome-Mistral-OCR).
+Mistral OCR lo podemos usar a través de, [una página web](https://santiagollll.github.io) o a través de una [extensión de Chrome](https://github.com/santiagollll/Chrome-Mistral-OCR).
 
 
 
