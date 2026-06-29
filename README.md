@@ -70,7 +70,7 @@ Dentro de la carpeta, ponemos: 1. El libro de hijo de ladron en formato .txt, co
 
 12. Ok. Cuando tengamos Codex abierto, ahora vamos a pegarle un **PROMPT** que le indique exactamente como realizar el resumen del libro que queremos. Este prompt indica la ubicacion de los archivos y da muchas instrucciones útiles a codex para que haga un buen resumen.
 
-¿Qué prompt?. Bueno, el prompt que yo usé en su momento es ESTE: _____
+¿Qué prompt?. Bueno, el prompt que yo usé en su momento es [ESTE](https://github.com/santiagollll/Resumenes-plan-lector-codex/edit/main/Prompt.txt)
 
 
 **Tienes que editar ese prompt que usé yo en su momento, cambiando SOLAMENTE los datos relevantes / necesarios para ajustar el libro de ejemplo; el libro que tu necesitas y algunos parámetros. Intenta mantener el resto de cosas como están, pues ese prompt funciona bien**.
@@ -98,3 +98,5 @@ Esto, con el objetivo de que la "couta" de Codex se gaste mas lentamente, y no t
 [Libro hijo de ladrón](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/Hijo%20de%20ladron%20-%20Manuel%20Rojas.txt)
 
 [Ejemplo del resumen que me hizo codex de hijo de ladrón](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/ResumenCodexFinal.txt)
+
+[PROMPT PARA GENERAR EL RESUMEN FINAL CON CODEX](https://github.com/santiagollll/Resumenes-plan-lector-codex/edit/main/Prompt.txt)
