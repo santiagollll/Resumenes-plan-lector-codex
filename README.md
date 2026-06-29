@@ -5,7 +5,7 @@
 
 [EJEMPLO DE PROMPT](https://github.com/santiagollll/Resumenes-plan-lector-codex/blob/main/prompt-deep-research)
 
-[https://chatgpt.com/deep-research](https://raw.githubusercontent.com/santiagollll/Resumenes-plan-lector-codex/refs/heads/main/drsrch.webp)
+![https://chatgpt.com/deep-research](https://raw.githubusercontent.com/santiagollll/Resumenes-plan-lector-codex/refs/heads/main/drsrch.webp)
 
 3. Esperar a que ChatGPT haga el informe del Deep Research. Cuando tengamos el informe de DEEP RESEARCH. Tenemos que descargar este informe como "MARKDOWN". La app de chatgpt nos debiese dejar descargarlo como Markdown... en el caso que **no sea posible** descargarlo como markdown, entonces **NO** vamos a descargarlo como .PDF ni tampoco como "Word / docx / doc". En cambio, vamos a copiar TODO EL CONTENIDO del informe poco a poco en un documento "**.txt**". Esto lo podemos hacer con el programa "Bloc de notas" en Windows.
 
